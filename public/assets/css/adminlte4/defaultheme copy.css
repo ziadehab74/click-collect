@@ -1,0 +1,37 @@
+
+body.default-theme .app-header {
+    background-color:#006ACC !important  ;     
+}
+
+body.default-theme .sidebar-brand {
+    background-color:#006ACC;
+}
+body.default-theme .sidebar-wrapper {
+    background-color: #207cd3  !important
+}
+body.default-theme .app-header .navbar-nav li>a{
+    color: #fff !important;
+}
+body.default-theme .sidebar-brand a {
+    color: #fff;
+}
+body .sidebar-menu .nav-item>.nav-link {
+    color:#fff;
+} 
+.brand-image {
+    width: 80px;
+}
+
+body .sidebar-open .brand-image {
+    max-width:180px !important;
+
+}
+    
+body.default-theme .sidebar-wrapper .form-control-sidebar {
+    background-color: #fff;
+    border: 0px;
+    border-radius: 8px;
+}
+body.default-theme .Timer {
+    color:#fff;
+} 
