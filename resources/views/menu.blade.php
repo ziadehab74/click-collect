@@ -10,7 +10,7 @@
 <body>
 
     <main>
-        @include('livewire.partials.navbar')
+        {{-- @include('livewire.part    ials.navbar') --}}
 
         @livewire('menu-checkout')
         {{-- @include('section2')
